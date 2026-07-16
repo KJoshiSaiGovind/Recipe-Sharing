@@ -1,5 +1,5 @@
 # RecipeCraft - Modern Recipe Discovery Platform
-
+Link : https://recipe-sharing143.netlify.app/
 RecipeCraft is a premium, modern recipe discovery application built with React 19 and Vite. It leverages the Edamam API v2 to provide users with a vast collection of healthy and nutritious recipes, detailed nutritional information, and a seamless user experience.
 
 ## ✨ Features
